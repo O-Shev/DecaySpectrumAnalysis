@@ -5,3 +5,5 @@ This is the pet project that I created during my 4th year (2020) at my universit
 *DecaySpectrumAnalysis* - program for automatic search and characterization of energy sources in decay spectrum.
 
 Each subproject (folder) contains a "HowToUse" file that gives additional information.
+
+***Key technologies***: *python 3, pyqt5, scipy, matplotlib, numpy*
